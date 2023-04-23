@@ -8,7 +8,7 @@
 - [Homework-bot](https://github.com/Artem4es/homework_bot) - отправляет уведомления о статусе домашнего задания.
 - [Модуль фитнес-трекера](https://github.com/Artem4es/hw_python_oop) для расчета параметров тренировки.
 
-⚡ Если у вас есть вопросы, вы всегда можете связаться со мной через [Telegram](https://t.me/turbotjoma)!
+⚡ Если у вас есть вопросы, Вы всегда можете связаться со мной через [Telegram](https://t.me/turbotjoma)!
 
 
 
