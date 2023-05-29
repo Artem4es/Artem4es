@@ -1,5 +1,6 @@
 ### 👋Hi there! Below, you can easily navigate through my projects, which include:
 
+- [FoodGram](https://github.com/Artem4es/foodgram-project-react) - is an online service + API (DRF) for cooking enthusiasts!
 - [An Internet market](https://github.com/Artem4es/motobinfile) with a shopping cart, various items, and card payment options.
 - [YaTube](https://github.com/Artem4es/hw05_final), a blog for writers with many features such as comments, likes, and followers.
 - [YamDBAPI](https://github.com/Artem4es/infra_sp2) an API for gathering information about music, films, and more. 
@@ -26,7 +27,7 @@
   <br><br>
   
   ### 👋Привет, я Артём! Ниже можно легко сориентироваться в моих проектах на GitHub:
-
+- [FoodGram](https://github.com/Artem4es/foodgram-project-react) - это онлайн-сервис + API (DRF) для любителей готовить!
 - [Интернет-магазин](https://github.com/Artem4es/motobinfile) на Flask с корзиной, страницами товаров и возможностью оплаты картой.
 - [YaTube](https://github.com/Artem4es/hw05_final) - блог для писателей с множеством функций, таких как комментарии, лайки, подписки и прочее.
 - [YamDBAPI](https://github.com/Artem4es/infra_sp2) - API для сбора информации о музыке, фильмах и других произведениях.
