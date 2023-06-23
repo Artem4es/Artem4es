@@ -6,6 +6,7 @@
 - [YamDBAPI](https://github.com/Artem4es/infra_sp2) an API for gathering information about music, films, and more.
 - [FASTAPI](https://github.com/Artem4es/FASTAPI) - This is a two part project on FAST API. The second part converts wav to mp3 and has a built-in authentication system!
 - [A landing page with a form](https://github.com/Artem4es/shop) that provides company information and has an order form which notifies you about new purchases via a Telegram bot.
+- [WildBerries Scraper](https://github.com/Artem4es/tasks/tree/main/task_2) is an API for gathering information from WildBerries (article, brand, and title), implemented on a stack of DRF + aiohttp + PyDantic
 - [Cash-bot](https://github.com/Artem4es/cash_bot), which calculates expenses when you hang out with friends.
 - [Homework-bot](https://github.com/Artem4es/homework_bot) - sends notifications about homework status.
 - [A fitness-tracker module](https://github.com/Artem4es/hw_python_oop) for calculating workout parameters.
@@ -34,6 +35,7 @@
 - [YamDBAPI](https://github.com/Artem4es/infra_sp2) - API для сбора информации о музыке, фильмах и других произведениях.
 - [FASTAPI](https://github.com/Artem4es/FASTAPI) - Проект из двух частей на FAST API. Вторая часть конвертирует wav в mp3 и имеет встроенную систему аутентификации!
 - [Лендинг-страница](https://github.com/Artem4es/shop), которая предоставляет информацию о компании и имеет форму заказа, которая уведомляет о новых покупках через Telegram-бот.
+- [WildBerries Scraper](https://github.com/Artem4es/tasks/tree/main/task_2) - это API для сбора информации с WildBerries (артикул, брэнд, тайтл), реализованный на стэке DRF + aiohttp + PyDantic 
 - [Cash-bot](https://github.com/Artem4es/cash_bot), который подсчитывает расходы, когда Вы тусите с друзьями.
 - [Homework-bot](https://github.com/Artem4es/homework_bot) - отправляет уведомления о статусе домашнего задания.
 - [Модуль фитнес-трекера](https://github.com/Artem4es/hw_python_oop) для расчета параметров тренировки.
