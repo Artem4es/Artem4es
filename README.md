@@ -3,7 +3,8 @@
 - [FoodGram](https://github.com/Artem4es/foodgram-project-react) - is an online service + API (DRF) for cooking enthusiasts!
 - [An Internet market](https://github.com/Artem4es/motobinfile) with a shopping cart, various items, and card payment options.
 - [YaTube](https://github.com/Artem4es/hw05_final), a blog for writers with many features such as comments, likes, and followers.
-- [YamDBAPI](https://github.com/Artem4es/infra_sp2) an API for gathering information about music, films, and more. 
+- [YamDBAPI](https://github.com/Artem4es/infra_sp2) an API for gathering information about music, films, and more.
+- [FASTAPI](https://github.com/Artem4es/FASTAPI) - This is a two part project on FAST API. The second part converts wav to mp3 and has a built-in authentication system!
 - [A landing page with a form](https://github.com/Artem4es/shop) that provides company information and has an order form which notifies you about new purchases via a Telegram bot.
 - [Cash-bot](https://github.com/Artem4es/cash_bot), which calculates expenses when you hang out with friends.
 - [Homework-bot](https://github.com/Artem4es/homework_bot) - sends notifications about homework status.
@@ -31,6 +32,7 @@
 - [Интернет-магазин](https://github.com/Artem4es/motobinfile) на Flask с корзиной, страницами товаров и возможностью оплаты картой.
 - [YaTube](https://github.com/Artem4es/hw05_final) - блог для писателей с множеством функций, таких как комментарии, лайки, подписки и прочее.
 - [YamDBAPI](https://github.com/Artem4es/infra_sp2) - API для сбора информации о музыке, фильмах и других произведениях.
+- [FASTAPI](https://github.com/Artem4es/FASTAPI) - Проект из двух частей на FAST API. Вторая часть конвертирует wav в mp3 и имеет встроенную систему аутентификации!
 - [Лендинг-страница](https://github.com/Artem4es/shop), которая предоставляет информацию о компании и имеет форму заказа, которая уведомляет о новых покупках через Telegram-бот.
 - [Cash-bot](https://github.com/Artem4es/cash_bot), который подсчитывает расходы, когда Вы тусите с друзьями.
 - [Homework-bot](https://github.com/Artem4es/homework_bot) - отправляет уведомления о статусе домашнего задания.
