@@ -1,6 +1,7 @@
 ### 👋Hi there! Below, you can easily navigate through my projects, which include:
 
 - [FoodGram](https://github.com/Artem4es/foodgram-project-react) - is an online service + API (DRF) for cooking enthusiasts!
+- [FastApi-Aiogram-multibot](https://github.com/Artem4es/fastapi-aiogram-multibot) - FastApi + Aiogram multibot factory. Could add new bots while app has already started!
 - [An Internet market](https://github.com/Artem4es/motobinfile) with a shopping cart, various items, and card payment options.
 - [KadastrAPI](https://github.com/Artem4es/kadastr) - an emulator of interaction between client API and external API implemented on FastAPI The task queue is implemented via Redis/Celery.
 - [Currency](https://github.com/Artem4es/currency) - API for collecting and conversion currency data! 
@@ -31,6 +32,7 @@
   
   ### 👋Привет, я Артём! Ниже можно легко сориентироваться в моих проектах на GitHub:
 - [FoodGram](https://github.com/Artem4es/foodgram-project-react) - это онлайн-сервис + API (DRF) для любителей готовить!
+- [FastApi-Aiogram-multibot](https://github.com/Artem4es/fastapi-aiogram-multibot) - FastApi + Aiogram Фабрика ботов. Возможно добавлять новых ТГ ботов в уже запущенное приложение!
 - [Интернет-магазин](https://github.com/Artem4es/motobinfile) на Flask с корзиной, страницами товаров и возможностью оплаты картой.
 - [KadastrAPI](https://github.com/Artem4es/kadastr) - это эмулятор взаимодействия клиентского API и внешнего API реализованные на FastAPI. Реализована очередь задач через Redis/Celery
 - [Currency](https://github.com/Artem4es/currency) - API для сбора информации о котировках и конвертации валют! 
