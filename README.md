@@ -1,7 +1,7 @@
 ### 👋Hi there! Below, you can easily navigate through my projects, which include:
 
 - [FoodGram](https://github.com/Artem4es/foodgram-project-react) - is an online service + API (DRF) for cooking enthusiasts!
-- [FastApi-Aiogram-multibot](https://github.com/Artem4es/fastapi-aiogram-multibot) - FastApi + Aiogram multibot factory. Could add new bots while app has already started!
+- [FastApi-Aiogram-multibot](https://github.com/Artem4es/fastapi-aiogram-multibot) - FastApi + Aiogram multibot factory. Could add new bots while app has already been started!
 - [An Internet market](https://github.com/Artem4es/motobinfile) with a shopping cart, various items, and card payment options.
 - [KadastrAPI](https://github.com/Artem4es/kadastr) - an emulator of interaction between client API and external API implemented on FastAPI The task queue is implemented via Redis/Celery.
 - [Currency](https://github.com/Artem4es/currency) - API for collecting and conversion currency data! 
